@@ -126,7 +126,7 @@ Open the [settings.dart](https://github.com/GitGud31/PFE-Teleport/blob/master/li
 ### API Gateway WebSocket endpoint Configuration
 
 after deploying the WebSocket into AWS or any other cloud provider,go to 
-[aws.dart](https://github.com/GitGud31/PFE-Teleport/blob/master/lib/services/aws.dart) and add the WebSocket endpoint url.
+[aws.dart](https://github.com/GitGud31/PFE-Teleport/blob/master/Mobile_Application/lib/services/aws.dart) and add the WebSocket endpoint url.
 ````
 final awsChannel = IOWebSocketChannel.connect("");
 ````
