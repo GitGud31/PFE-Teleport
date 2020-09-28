@@ -34,5 +34,3 @@ puis naviguez jusqu'à chacun des dossiers ci-dessous et suivez le ReadMe de cha
  
 
 # PFE-Teleport
-# PFE-Teleport
-# PFE-Teleport
